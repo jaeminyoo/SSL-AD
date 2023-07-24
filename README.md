@@ -42,3 +42,20 @@ reconstruction error, and the second value is the AUC measured in the
 one-vs-rest scheme. No early stopping is used, since we have no validation data.
 The result is stored at the `out-tmp` directory. You can change the arguments of
 `main.py` to run experiments in other settings and configurations.
+
+## Reference
+
+Please cite our paper if you utilize our code in your research:
+
+```
+@article{
+yoo2023data,
+title={Data Augmentation is a Hyperparameter: Cherry-picked Self-Supervision for Unsupervised Anomaly Detection is Creating the Illusion of Success},
+author={Jaemin Yoo and Tiancheng Zhao and Leman Akoglu},
+journal={Transactions on Machine Learning Research},
+issn={2835-8856},
+year={2023},
+url={https://openreview.net/forum?id=HyzCuCV1jH},
+note={}
+}
+```
