@@ -1,0 +1,10 @@
+torch==1.10.1
+torchvision==0.11.2
+scikit-learn==1.0.2
+pandas==1.4.1
+matplotlib==3.5.1
+requests==2.27.1
+numpy==1.22.3
+tqdm==4.64.0
+Pillow==9.0.1
+scipy==1.8.0
